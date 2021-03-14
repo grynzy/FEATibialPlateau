@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "0f4fe3fcaa1640b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5dbe42149567486",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57023075349c0222",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b3b1423eaed4e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "128f4eb8b465039d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed78dbe9e41ca98a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6cbc8686aa439e67",
+    "type": "split",
+    "children": [
+      {
+        "id": "18434b19af58b7ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697de9bf9aaa41dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 540,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled 2.md",
+    "OBJECTIVES.md",
+    "Untitled 1.md",
+    "Dual plate.md",
+    "Carrerra2015.md",
+    "Results.md",
+    "Salome-Meca.md",
+    "MARC.md",
+    "Novel anatomical plate.md",
+    "poroelasticity.md"
+  ]
+}
