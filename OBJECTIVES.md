@@ -11,3 +11,5 @@
 1. Could I use PETSc for both novel and Salome-Meca? 
 	1. If yes, than what's the difference between these two?
 	2. If no, should I neglect the effect of poroelasticity on Salome-Meca?
+	3. Can this number 3 works once I return to Windows?
+	4. 

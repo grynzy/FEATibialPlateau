@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "FEA.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -46,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -67,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FEA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "OBJECTIVES.md",
-    "Untitled 1.md",
-    "Dual plate.md",
-    "Carrerra2015.md",
-    "Results.md",
-    "Salome-Meca.md",
+    "FEA.md",
     "MARC.md",
+    "OBJECTIVES.md",
+    "PETSc.md",
+    "poroelasticity.md",
+    "Carrerra2015.md",
+    "Dual plate.md",
+    "new.md",
     "Novel anatomical plate.md",
-    "poroelasticity.md"
+    "Untitled 2.md"
   ]
 }
