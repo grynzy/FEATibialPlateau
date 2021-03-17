@@ -1,1 +1,1 @@
-Some poroelasticity formulas that can be used for bone are from:
+[[Porosity]] of bone is attributed to two canal-based system

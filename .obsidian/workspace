@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a5dbe42149567486",
+        "id": "078c2f18d90cbfb6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FEA.md",
+            "file": "poroelasticity.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6cbc8686aa439e67",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FEA.md",
+                "file": "poroelasticity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +87,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "FEA.md",
-    "MARC.md",
-    "OBJECTIVES.md",
-    "PETSc.md",
     "poroelasticity.md",
-    "Carrerra2015.md",
-    "Dual plate.md",
+    "osteons.md",
+    "Robles-Linares2019.md",
+    "biomimetic.md",
+    "in-silico.md",
+    "poroelastic model.md",
+    "OBJECTIVES.md",
     "new.md",
-    "Novel anatomical plate.md",
-    "Untitled 2.md"
+    "FEA.md",
+    "MARC.md"
   ]
 }
