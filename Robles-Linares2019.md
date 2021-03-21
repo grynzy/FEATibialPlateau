@@ -1,3 +1,4 @@
+# Introduction
 Objectives:
 Present a novel algorithm for generating [[in-silico]] [[biomimetic]] models of a cortical bone microstructure towards manufacturing biomimetic bone via additive manufacturing
 
@@ -9,15 +10,6 @@ Modeling based on:
 	- Haversian and Volkmann's canals
 
 Porosity = 13.37 - 21.49% ~ same with models of of healthy and osteoporotic bone --> *are this also in-silico?*
-
-# Introduction
-* Mdnotes File Name: [[undefined]]
-
-# Extracted Annotations (2021-03-20)
-
-> "However, the pursuit by the scientific community of alternatives to autologous or allogeneic bone grafts such as entirely synthetic bone graft strategies has focused on relatively simple lattices that do not recreate the convoluted and mutable essence of natural tissue." ([Robles-Linares et al 2019:914](zotero://open-pdf/library/items/D88FILCW?page=2))
-
-*Why we need porous bone model ([note on p.914](zotero://open-pdf/library/items/D88FILCW?page=2))*
 
 
 
@@ -35,20 +27,51 @@ Bone consists of 2 main tissues:
 
 
 # Materials and Methods
-## Algorithm for Generating the Cortica Bone Models
-### Software 
+## Algorithm for Generating the Cortical Bone Models
+Made by:
 - Free-form surface modeler CAD software (Rhino 6)
 - Built-in visual programming language Grasshopper
-Coupling these tools --> build generative algorithms for models using standard design tools:
-	- point
-	- curve sketching
-#### *Parameters that is needed to be specified*
-Check 
-1. Lenght of the model
-2. Osteon density
-3. Osteon diameter range
-4. Inclination angles
-5.  
+- 
+A set of parameters are specified by the user including:
+#### Input
+- Osteon diamter range
+- Osteon density
+- Osteon inclination angle range
+- Cement line thickness range
+- Haversian canals diameter range
+- Volkmann's canals diameter range
+- Distance between Volkann's canals
+- Maximum inclination angle of the Volkmann's canals
+
+To create randomness in the model:
+- Add pseudo-numbers using seed values
+
+The results can be seen in terms of:
+#### Output
+- Haversian porosity
+- Volkmann's porosity
+- Overall porosity
+
+### Modeling Algorithm
+Two types of algorithm with each corresponds to:
+1. Geometrical (macrostructural) features of the bone
+2. Nature of the microstructure of the bone
+
+### Modeling Algorithm Process and Steps
+1. Generate solid 3D volume
+2. Lower base of volume is filled with circles (osteons) with a random size and position accordingly to the microstructural parameters
+3. Vector is constructed from each circle center towards the top surface of the bone volume (osteon inclination angle range)
+4. A solid pipe-like cylinder is created along each vector with the same diameter as the base circle
+5. The cement line is generated as a tangent concentric cylinder to the solid pipe
+6. The thickness is determined with the seed values and the cement line thickness range (CLT)
+7. Haversian canals are constructed along the same vectors using the diameter range (HCDR)
+8. Volkmann's canals generation:
+	1. Distance between Volkmann's canals (measured along the axis of the osteons) range (DVBC) value to set the position of t
+
+### Modeling Algorithm in-Silico Validation with Porosity Check
+
+## Experimental Validation towards Scaffold Usage Employing Additive Manufacturing and XCT-Scanning
+
 	
 	
 

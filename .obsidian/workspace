@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 INTRODUCTION.md",
+            "file": "Robles-Linares2019.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 INTRODUCTION.md",
+                "file": "Robles-Linares2019.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "010 INTRODUCTION.md",
     "Robles-Linares2019.md",
     "020 MATERIALS AND METHOD.md",
     "OBJECTIVES.md",
+    "Carrerra2015.md",
+    "010 INTRODUCTION.md",
     "Untitled.md",
     "INTRODUCTION.md",
     "PETSc.md",
     "FEA.md",
-    "Zadpoor.md",
-    "undefined - Extracted Annotations (3202021, 64033 PM)Patient-specific analysis of bones is considered an important tool for dia.md"
+    "Zadpoor.md"
   ]
 }
