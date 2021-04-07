@@ -6,6 +6,7 @@
       {
         "id": "078c2f18d90cbfb6",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -72,8 +73,6 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +85,6 @@
     "width": 540,
     "collapsed": true
   },
-  "active": "078c2f18d90cbfb6",
   "lastOpenFiles": [
     "3D Model.md",
     "Ren2018ANovel.md",
