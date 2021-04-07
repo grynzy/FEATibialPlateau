@@ -6,11 +6,10 @@
       {
         "id": "078c2f18d90cbfb6",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Promotion.md",
+            "file": "3D Model.md",
             "mode": "source"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Promotion.md",
+                "file": "3D Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 540,
     "collapsed": true
   },
+  "active": "078c2f18d90cbfb6",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Robles-Linares2019.md",
+    "3D Model.md",
+    "Ren2018ANovel.md",
     "020 MATERIALS AND METHOD.md",
-    "OBJECTIVES.md",
-    "Carrerra2015.md",
     "010 INTRODUCTION.md",
-    "Untitled.md",
-    "INTRODUCTION.md",
-    "PETSc.md",
-    "FEA.md"
+    "Untitled 1.md",
+    "OBJECTIVES.md",
+    "Promotion.md",
+    "Robles-Linares2019.md",
+    "Carrerra2015.md",
+    "Untitled.md"
   ]
 }
