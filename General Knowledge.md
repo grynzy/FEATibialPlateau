@@ -1,0 +1,1 @@
+Bone density is defined as means value expresed in Hounsfield units in each pixel

@@ -10,4 +10,9 @@
 3. Get to know poroelsatic
 
 
+# Method
+## 1. Image Acquisition
+Images were obtained from Visible Human Project. The 
+
+
 

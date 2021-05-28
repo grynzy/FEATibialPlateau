@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ramlee2014Finite.md",
+            "file": "poroelasticity.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "poroelasticity",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -48,12 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6cbc8686aa439e67",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ramlee2014Finite.md",
+                "file": "poroelasticity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "078c2f18d90cbfb6",
   "lastOpenFiles": [
-    "Ramlee2014Finite.md",
+    "poroelasticity.md",
     "Untitled 1.md",
-    "3D Model.md",
-    "Ren2018ANovel.md",
+    "030 RESULTS.md",
     "020 MATERIALS AND METHOD.md",
+    "3D Model.md",
+    "Ramlee2014Finite.md",
+    "Ren2018ANovel.md",
     "010 INTRODUCTION.md",
     "OBJECTIVES.md",
-    "Promotion.md",
-    "Robles-Linares2019.md",
-    "Carrerra2015.md"
+    "Promotion.md"
   ]
 }
