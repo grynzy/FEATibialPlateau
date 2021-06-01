@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "poroelasticity.md",
+            "file": "020 MATERIALS AND METHOD.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a3c0a0b5fa3b8178",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "020 MATERIALS AND METHOD.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poroelasticity",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -48,12 +59,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6cbc8686aa439e67",
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "poroelasticity.md",
+                "file": "020 MATERIALS AND METHOD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +100,10 @@
   },
   "active": "078c2f18d90cbfb6",
   "lastOpenFiles": [
+    "020 MATERIALS AND METHOD.md",
     "poroelasticity.md",
     "Untitled 1.md",
     "030 RESULTS.md",
-    "020 MATERIALS AND METHOD.md",
     "3D Model.md",
     "Ramlee2014Finite.md",
     "Ren2018ANovel.md",
