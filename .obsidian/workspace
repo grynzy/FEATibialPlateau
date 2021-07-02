@@ -6,10 +6,11 @@
       {
         "id": "078c2f18d90cbfb6",
         "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "020 MATERIALS AND METHOD.md",
+            "file": "How to Do Research.md",
             "mode": "source"
           }
         }
@@ -17,6 +18,7 @@
       {
         "id": "a3c0a0b5fa3b8178",
         "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -63,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6cbc8686aa439e67",
@@ -80,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 MATERIALS AND METHOD.md",
+                "file": "How to Do Research.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +101,7 @@
   },
   "active": "078c2f18d90cbfb6",
   "lastOpenFiles": [
+    "How to Do Research.md",
     "020 MATERIALS AND METHOD.md",
     "poroelasticity.md",
     "Untitled 1.md",
@@ -108,7 +110,6 @@
     "Ramlee2014Finite.md",
     "Ren2018ANovel.md",
     "010 INTRODUCTION.md",
-    "OBJECTIVES.md",
-    "Promotion.md"
+    "OBJECTIVES.md"
   ]
 }
